@@ -1,4 +1,5 @@
-#Código de ejemplo tarea3.py desarrollado en el CIPAS BIG DATA (16-04) Spark, 2024-10-10 
+#Grupo: 
+Estudiantes: Jesus Orlando M, 
 
 #Importamos librerias necesarias
 from pyspark.sql import SparkSession, functions as F
