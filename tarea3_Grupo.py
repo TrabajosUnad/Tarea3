@@ -1,5 +1,5 @@
 #Grupo: 
-Estudiantes: Jesus Orlando M, 
+#Estudiantes: Jesus Orlando M, 
 
 #Importamos librerias necesarias
 from pyspark.sql import SparkSession, functions as F
