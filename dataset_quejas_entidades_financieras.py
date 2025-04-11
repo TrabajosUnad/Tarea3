@@ -1,6 +1,6 @@
-# Dataset: Quejas interpuestas ante las entidades vigiladas por la Superintendencia Financiera de Colombia y Defensores del Consumidor Financiero
+# Nombre del Dataset: Quejas interpuestas ante las entidades vigiladas por la Superintendencia Financiera de Colombia y Defensores del Consumidor Financiero
 # Fuente: https://www.datos.gov.co/Econom-a-y-Finanzas/Quejas-interpuestas-ante-las-entidades-vigiladas-p/hjqv-fp48/about_data
-# Autor código: Claudia Orozco
+
 
 # Importar librerías necesarias
 from pyspark.sql import SparkSession, functions as F
